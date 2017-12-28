@@ -11,7 +11,7 @@ describe "Grocer" do
       {"PEANUTBUTTER" => {:price => 3.00, :clearance => true}},
       {"BEETS" => {:price => 2.50, :clearance => false}},
       {"SOY MILK" => {:price => 4.50, :clearance => true}}
-    ]
+    
   end
 
   let(:coupons) do
